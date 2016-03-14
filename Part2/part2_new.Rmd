@@ -4,6 +4,7 @@ author: "Thomas Reid Zuk"
 date: "March 13, 2016"
 output: pdf_document
 ---
+https://github.com/Freakazoidile/SRT_Assignment_Graphs/tree/master/Part2
 
 I have choosen to analyze the historical quote trading information of Nasdaq Inc stock which is listed as NDAQ on the NASDAQ stock market. Nasdaq is the coporation that owns the NASDAQ stock market in the United States as well as many other world wide stock markets including 8 European stock markets.
 

@@ -4,6 +4,8 @@ author: "Thomas Reid Zuk"
 date: "March 12, 2016"
 output: pdf_document
 ---
+Github Code for this part: https://github.com/Freakazoidile/SRT_Assignment_Graphs/tree/master/Part1
+
 
 The textbook code examines VCDB data about computer security related incidents from 2013.  This data is now nearly 3 years old and the current VCDB contains incidents from as recent as roughly 30 days.  "We have more contributors and more incidents than ever before."[1] Between 2013 and 2016 the number of contributors to VCDB has increased greatly which helps to increase the knowledge surrounding security incidents and react accordingly. 
 
